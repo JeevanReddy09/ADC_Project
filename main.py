@@ -188,5 +188,4 @@ elif page == "EV Adoption by County":
 
 # Footer
 st.markdown("---")
-st.markdown("Made by Jeevan Reddy.")
     
